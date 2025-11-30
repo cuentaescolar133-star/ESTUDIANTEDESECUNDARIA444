@@ -1,0 +1,8 @@
+{
+  "name": "ENGLISH OPENS DOORS",
+  "description": "Un asistente integral para aprender inglés con IA: traducción, guía de pronunciación, conversación en vivo y creación de escenarios creativos.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
